@@ -1,3 +1,4 @@
+<!-- Vista per defecte "home" del controlador per defecte "chome"-->
 <!DOCTYPE html>
 <html lang="en">
 <head>

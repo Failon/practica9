@@ -1,5 +1,7 @@
 <?php
-
+/*
+*model de dades de l'acció suma del controlador per defecte "chome".
+*/
 class msuma{
 	function suma($params){
 		$suma = array();

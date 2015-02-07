@@ -1,3 +1,4 @@
+<!--Vista de la acció show del controlador user-->
 <!DOCTYPE html>
 <html lang="en">
 <head>

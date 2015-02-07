@@ -1,3 +1,4 @@
+<!--Vista de la acció suma del controladore chome-->
 <!DOCTYPE html>
 <html lang="en">
 <head>

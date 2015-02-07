@@ -1,5 +1,7 @@
 <?php
-
+/*
+*Model de dades del controlador user.
+*/
 class muser{
 	function info($params){
 			return array(
